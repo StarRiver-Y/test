@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "spring.kafka.consumer.producer.retries",
+      "type": "java.lang.String",
+      "description": "Description for spring.kafka.consumer.producer.retries."
+    },
+    {
+      "name": "mybatis.mapper-locations",
+      "type": "java.lang.String",
+      "description": "Description for mybatis.mapper-locations."
+    }
+  ] }
